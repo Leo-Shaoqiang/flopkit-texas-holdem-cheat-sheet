@@ -13,6 +13,7 @@
 - **Full 169-Hand Starting Grid**: 13 pocket pairs, 78 suited hands, and 78 offsuit hands grouped into actionable play, conditional, and fold tiers.
 - **Betting Order & Pot Odds Reference**: Essential odds calculations to guide your calls and folds across all betting streets (Pre-flop, Flop, Turn, River).
 - **Printable Reference Cards**: Available in full A4 / US Letter size, plus compact 4x6 inch pocket reference cards.
+- **Showdown & Tie-Breaker Evaluator**: Settle split-pot, side-pot, and kicker disputes instantly with the free [who wins poker calculator](https://flopkit.com/who-wins/).
 
 ---
 
@@ -34,6 +35,15 @@ The starting grid covers all 169 hand types (13 pairs, 78 suited, 78 offsuit, dr
 | Two Pair | 31,433,400 | 23.50% | 3.26 : 1 |
 | One Pair | 58,627,800 | 43.82% | 1.28 : 1 |
 | High Card | 23,294,460 | 17.41% | 4.74 : 1 |
+
+---
+
+## ⚖️ Showdown & Decision Utilities
+
+When multiple players reach the showdown with tricky holdings, split pots and side pots can trigger disputes. The interactive showdown evaluator lets you pick community cards and player hole cards to determine the winning hand and tie-break rules:
+
+- 🏆 Who Wins Calculator: [who wins poker calculator](https://flopkit.com/who-wins/)
+- 🧮 Hand Evaluator & Kicker Rules: [poker hand evaluator](https://flopkit.com/who-wins/)
 
 ---
 
